@@ -1,4 +1,6 @@
-'''Jayanth Valmiki ,''' ''Manager of WarLock Projects''
+'''Jayanth Valmiki ,''' 
+
+''Manager of WarLock Projects''
 ----
 
 
